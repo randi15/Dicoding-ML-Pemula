@@ -1,7 +1,7 @@
 # Library i used
 1. Zipfile
 2. Os
-3. Shutil
+3. Splitfolders
 4. Tensorflow
 5. Keras
 6. Sklearn
