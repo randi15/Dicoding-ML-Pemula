@@ -1,4 +1,5 @@
-# Library i used
+# Submission Final Project Machine Learning Pemula Certification by Dicoding
+## Library i used
 1. Zipfile
 2. Os
 3. Splitfolders
@@ -6,5 +7,5 @@
 5. Keras
 6. Sklearn
 7. Matplotlib
-# Dataset i used
+## Dataset i used
 https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip
